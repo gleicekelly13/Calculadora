@@ -15,12 +15,13 @@
 
 .calculadora {
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.4);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 15px;
     padding: 15px;
+    padding-top: 30px;
 }
 
 .botao {
@@ -29,22 +30,28 @@
     font-size: 25px;
     cursor: pointer;
     margin: 3px;
-    background-color: rgb(31, 31, 31);
+    background-color: rgba(119, 117, 117, 0.315);
     border: none;
+    border-radius: 10px;
     color: #fff ;
 }
 
 .botao:hover {
-    background-color: black;
+    background-color: rgb(116, 190, 252);
+}
+
+.botao:active {
+    background-color: rgb(0, 0, 37);
 }
 
 #resultado {
     background-color: white;
-    width: 207px;
+    width: 220px;
     height: 30px;
     margin: 5px;
     font-size: 25px;
     color: black;
+    border-radius: 5px;
     text-align: right;
     padding: 5px;
 }
