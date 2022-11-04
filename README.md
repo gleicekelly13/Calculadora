@@ -13,6 +13,12 @@
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
 
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>Realizar as quatro operações básicas(soma, subtração, multiplicação e divisão); Apagar um número por vez clicando na tecla "<"; 
+   Limpar o visor ao clicar na tecla "C"; Apresentar o nome "ERROR" ao clicar na tecla do resultado(=) sem inserir a operação.
+</p>
+
+
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/Calculadora/ </p>
 <br>
