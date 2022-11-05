@@ -3,8 +3,10 @@
 <p>Uma calculadora básica que executa as quatro operações principais, desenvolvida com HTML, CSS e Javascript.</p>
 <br>
 
+## :desktop_computer: Desktop design
+<br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/80974593/186066661-75561f85-8e70-459f-bce8-49a44dbfc94d.png" width="500px"/>
+<img src="https://user-images.githubusercontent.com/80974593/200131343-d37fdc85-7261-43c9-ae7d-cd90e41f24a8.png" width="500px"/>
 </div>
 <br>
 
