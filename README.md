@@ -29,6 +29,7 @@
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <p>Criação de funções</p>
+<p>Criação de Estruturas Condicionais</p>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/Calculadora/ </p>
